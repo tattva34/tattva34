@@ -1,18 +1,12 @@
-@font-face {
-    font-family: 'RougeScript';
-    src: url('/fonts/RougeScript-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
-}
-
 body {
     background-color: #ffe8ca;
     padding: 0;
     margin: 0;
-    font-family: 'RougeScript';
+    font-family: 'Rouge Script', cursive;
     font-size: 23px;
 }
 
 h1.tattva-title {
-    font-family: 'RougeScript';
     font-size: 60px;
     color: rgb(117, 68, 88);
     margin: 10px 5px 5px;
